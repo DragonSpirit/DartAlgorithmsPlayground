@@ -1,0 +1,3 @@
+name: dart_practice
+dependencies:
+  test: ^1.5.3
